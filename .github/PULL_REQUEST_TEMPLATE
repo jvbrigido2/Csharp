@@ -1,0 +1,32 @@
+# Pull Request
+
+## Descrição
+Descreva aqui de forma sucinta o que esta pull request faz, qual problema ela resolve ou qual funcionalidade ela adiciona ao projeto.
+
+## Issues Relacionadas
+Liste aqui as issues relacionadas a esta pull request, se houver.
+
+## Mudanças Propostas
+Descreva as mudanças feitas neste pull request, incluindo adições, remoções e alterações de código.
+
+## Testes Realizados
+Descreva os testes que foram realizados para garantir que as mudanças propostas funcionam como esperado.
+
+## Capturas de Tela (se aplicável)
+Se as mudanças afetam a interface de usuário ou há algo visual que precise ser destacado, forneça capturas de tela ou imagens relevantes.
+
+## Checklist
+Certifique-se de que todas as caixas estão marcadas antes de enviar a pull request.
+
+- [ ] Meu código segue as convenções de codificação do projeto.
+- [ ] Meus commits seguem as boas práticas de mensagem de commit.
+- [ ] Eu atualizei a documentação, se necessário.
+- [ ] Eu adicionei testes que provam a correção do meu código.
+- [ ] Todos os testes estão passando.
+- [ ] A build do CI/CD passou com sucesso.
+
+## Revisores
+@usuario1, @usuario2
+
+## Observações Adicionais
+Adicione aqui quaisquer informações adicionais que possam ser relevantes para revisão desta pull request.
