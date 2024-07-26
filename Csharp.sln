@@ -3,9 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fundamentals", "Fundamentals", "{782734E9-5CF2-4E4F-BEAC-52D7680A42EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList", "Fundamentals\TodoList\TodoList.csproj", "{882FD629-5678-4400-9464-1D29564FBCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Fundamentals\Calculator\Calculator.csproj", "{53C6A6F2-C2F1-4A47-9E5F-5718B1C4DD5C}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882FD629-5678-4400-9464-1D29564FBCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882FD629-5678-4400-9464-1D29564FBCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882FD629-5678-4400-9464-1D29564FBCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882FD629-5678-4400-9464-1D29564FBCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C6A6F2-C2F1-4A47-9E5F-5718B1C4DD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C6A6F2-C2F1-4A47-9E5F-5718B1C4DD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C6A6F2-C2F1-4A47-9E5F-5718B1C4DD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C6A6F2-C2F1-4A47-9E5F-5718B1C4DD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{882FD629-5678-4400-9464-1D29564FBCAE} = {782734E9-5CF2-4E4F-BEAC-52D7680A42EB}
+		{53C6A6F2-C2F1-4A47-9E5F-5718B1C4DD5C} = {782734E9-5CF2-4E4F-BEAC-52D7680A42EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {609C5324-CFE5-455B-8234-C6325C6D683E}
