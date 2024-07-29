@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtremelyBasic", "Fundament
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfCircle", "Fundamentals\Beecrowd\AreaOfCircle\AreaOfCircle.csproj", "{36A318F9-C65E-4A79-976A-CB0F12D469DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSum", "Fundamentals\Beecrowd\SimpleSum\SimpleSum.csproj", "{CC2A9479-3BBE-4B46-B500-FD7BE9C04396}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{36A318F9-C65E-4A79-976A-CB0F12D469DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36A318F9-C65E-4A79-976A-CB0F12D469DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36A318F9-C65E-4A79-976A-CB0F12D469DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2A9479-3BBE-4B46-B500-FD7BE9C04396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2A9479-3BBE-4B46-B500-FD7BE9C04396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2A9479-3BBE-4B46-B500-FD7BE9C04396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2A9479-3BBE-4B46-B500-FD7BE9C04396}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -54,6 +60,7 @@ Global
 		{8F24F85C-B844-48F6-886F-0F09065A2CE0} = {E992568D-4FCE-4197-8F16-0A931A7CA6EB}
 		{E1BA2D3B-C01F-4A50-9202-B3121BA214A6} = {E992568D-4FCE-4197-8F16-0A931A7CA6EB}
 		{36A318F9-C65E-4A79-976A-CB0F12D469DE} = {E992568D-4FCE-4197-8F16-0A931A7CA6EB}
+		{CC2A9479-3BBE-4B46-B500-FD7BE9C04396} = {E992568D-4FCE-4197-8F16-0A931A7CA6EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {609C5324-CFE5-455B-8234-C6325C6D683E}
