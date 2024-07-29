@@ -6,11 +6,13 @@ class URI
     static void Main(string[] args)
     {
 
-        /**
-         * Escreva a sua solução aqui
-         * Code your solution here
-         * Escriba su solución aquí
-         */
+        int A, B, X;
+
+        A = int.Parse(Console.ReadLine());
+        B = int.Parse(Console.ReadLine());
+
+        X = A + B;
+        Console.WriteLine($"X = {X}");
 
     }
 
