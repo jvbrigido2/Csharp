@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average2", "Fundamentals\Be
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "Fundamentals\Beecrowd\Difference\Difference.csproj", "{F36EC6CB-8ACE-41D3-A000-DCA263932AC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Fundamentals\Beecrowd\Salary\Salary.csproj", "{9367EA2E-3240-4099-BD44-2AC3DB46DF2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{F36EC6CB-8ACE-41D3-A000-DCA263932AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F36EC6CB-8ACE-41D3-A000-DCA263932AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F36EC6CB-8ACE-41D3-A000-DCA263932AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9367EA2E-3240-4099-BD44-2AC3DB46DF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9367EA2E-3240-4099-BD44-2AC3DB46DF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9367EA2E-3240-4099-BD44-2AC3DB46DF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9367EA2E-3240-4099-BD44-2AC3DB46DF2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -89,6 +95,7 @@ Global
 		{283B3D9E-B33E-4708-82D7-83D0F8C60DBE} = {E992568D-4FCE-4197-8F16-0A931A7CA6EB}
 		{7003F045-F030-4D72-922B-6C45B687EBE5} = {E992568D-4FCE-4197-8F16-0A931A7CA6EB}
 		{F36EC6CB-8ACE-41D3-A000-DCA263932AC5} = {E992568D-4FCE-4197-8F16-0A931A7CA6EB}
+		{9367EA2E-3240-4099-BD44-2AC3DB46DF2C} = {E992568D-4FCE-4197-8F16-0A931A7CA6EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {609C5324-CFE5-455B-8234-C6325C6D683E}
